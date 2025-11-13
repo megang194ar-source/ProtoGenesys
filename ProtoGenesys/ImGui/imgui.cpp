@@ -9,7 +9,7 @@
 
 // Resources:
 // - FAQ                   http://dearimgui.org/faq
-// - Homepage & latest     https://github.com/ocornut/imgui
+// - Homepage & latest     https://github.com/ocornut/imgui 
 // - Releases & changelog  https://github.com/ocornut/imgui/releases
 // - Gallery               https://github.com/ocornut/imgui/issues/3075 (please post your screenshots/video there!)
 // - Glossary              https://github.com/ocornut/imgui/wiki/Glossary
