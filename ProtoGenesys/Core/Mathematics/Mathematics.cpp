@@ -11,7 +11,7 @@ namespace ProtoGenesys
 	float cMathematics::CalculateFOV(ImVec3 start, ImVec3 end, ImVec3 angles)
 	{
 		ImVec3 vDirection = start - end, vAngles, vAimAngles;
-
+ 
 		VectorNormalize(vDirection);
 		VectorAngles(vDirection, vAimAngles);
 
