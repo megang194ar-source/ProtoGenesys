@@ -5,7 +5,7 @@
       <Configuration>Release</Configuration>
       <Platform>Win32</Platform>
     </ProjectConfiguration>
-  </ItemGroup>
+  </ItemGroup> 
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{E5A11CB4-0B66-4451-AC85-F8CCC80A8745}</ProjectGuid>
