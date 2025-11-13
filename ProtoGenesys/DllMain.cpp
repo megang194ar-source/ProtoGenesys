@@ -13,7 +13,7 @@ using namespace ProtoGenesys;
 
 void Init();
 void Free();
-
+ 
 void HookSteamUserAPI();
 void HookSteamFriendsAPI();
 
